@@ -1,7 +1,7 @@
 {
   "name": "reactassesment",
   "version": "1.0.0",
-  "description": "",
+  "description": "A todo list app with React-Redux (with normalized store shape).",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -12,6 +12,7 @@
     "react-bootstrap": "^1.0.0-beta.16",
     "react-dom": "^16.8.6",
     "react-redux": "5.0.7",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "1.1.4",
     "redux": "4.0.0"
   },
