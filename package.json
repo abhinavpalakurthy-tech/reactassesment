@@ -1,7 +1,7 @@
 {
   "name": "reactassesment",
   "version": "1.0.0",
-  "description": "A todo list app with React-Redux (with normalized store shape).",
+  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
